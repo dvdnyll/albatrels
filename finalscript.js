@@ -273,49 +273,49 @@ const resultOptions = {
         image: "4phoenix.png",
     },
     "ENFP": {
-        image: "4phoenix.png",
+        image: "4phoenix.png"
     },
     "ENFP": {
-        image: "4phoenix.png",
+        image: "4phoenix.png"
     },
     "INTJ": {
-        image: "12sphinx.png",
+        image: "12sphinx.png"
     },
     "ENFP": {
-        image: "4phoenix.png",
+        image: "4phoenix.png"
     },
     "ENFP": {
-        image: "4phoenix.png",
+        image: "4phoenix.png"
     },
     "ENFP": {
-        image: "4phoenix.png",
+        image: "4phoenix.png"
     },
     "ENFP": {
-        image: "4phoenix.png",
+        image: "4phoenix.png"
     },
     "ENFP": {
-        image: "4phoenix.png",
+        image: "4phoenix.png"
     },
     "ENFP": {
-        image: "4phoenix.png",
+        image: "4phoenix.png"
     },
     "ENFP": {
-        image: "4phoenix.png",
+        image: "4phoenix.png"
     },
     "ENFP": {
-        image: "4phoenix.png",
+        image: "4phoenix.png"
     },
     "ENFP": {
-        image: "4phoenix.png",
+        image: "4phoenix.png"
     },
     "ENFP": {
-        image: "4phoenix.png",
+        image: "4phoenix.png"
     },
     "ENFP": {
-        image: "4phoenix.png",
+        image: "4phoenix.png"
     },
     "ENFP": {
-        image: "4phoenix.png",
+        image: "4phoenix.png"
     },
 
 };
