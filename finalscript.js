@@ -269,53 +269,53 @@ const questions = [
 ];
 
 const resultOptions = {
-    "ISTJ": {
-        image: "7kitsune.png",
-    },
-    "ISFJ": {
-        image: "8basilisk.png"
-    },
-    "INFJ": {
-        image: "3fairy.png"
-    },
-    "INTJ": {
-        image: "12sphinx.png"
-    },
-    "ISTP": {
-        image: "6reaper.png"
-    },
-    "ISFP": {
-        image: "5hydra.png"
-    },
-    "INFP": {
-        image: "9unicorn.png"
-    },
-    "INTP": {
-        image: "14griffin.png"
-    },
-    "ESTP": {
-        image: "10hippocampus.png"
-    },
-    "ESFP": {
-        image: "2siren.png"
+    "ENFP": {
+        image: "4phoenix.png",
     },
     "ENFP": {
-        image: "4phoenix.png"
+        image: "4phoenix.png",
     },
-    "ENTP": {
-        image: "13jackalope.png"
+    "ENFP": {
+        image: "4phoenix.png",
     },
-    "ESTJ": {
-        image: "15cerberus.png"
+    "INTJ": {
+        image: "12sphinx.png",
     },
-    "ESFJ": {
-        image: "11gnome.png"
+    "ENFP": {
+        image: "4phoenix.png",
     },
-    "ENFJ": {
-        image: "1wyvern.png"
+    "ENFP": {
+        image: "4phoenix.png",
     },
-    "ENTJ": {
-        image: "16dragon.png"
+    "ENFP": {
+        image: "4phoenix.png",
+    },
+    "ENFP": {
+        image: "4phoenix.png",
+    },
+    "ENFP": {
+        image: "4phoenix.png",
+    },
+    "ENFP": {
+        image: "4phoenix.png",
+    },
+    "ENFP": {
+        image: "4phoenix.png",
+    },
+    "ENFP": {
+        image: "4phoenix.png",
+    },
+    "ENFP": {
+        image: "4phoenix.png",
+    },
+    "ENFP": {
+        image: "4phoenix.png",
+    },
+    "ENFP": {
+        image: "4phoenix.png",
+    },
+    "ENFP": {
+        image: "4phoenix.png",
     },
 
 };
